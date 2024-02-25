@@ -1,3 +1,0 @@
-﻿  Main.c
-C:\Users\hulumulu\source\repos\Task2.1\Main\Main.c(57,9): warning C4013: abort: нет определения; предполагается "extern" с возвратом типа "int"
-  Main.vcxproj -> C:\Users\hulumulu\source\repos\Task2.1\x64\Debug\Main.exe
